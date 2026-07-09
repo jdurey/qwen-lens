@@ -1,0 +1,20 @@
+{
+ "fragment_a": "I keep thinking about the routes I take without thinking, the grooves worn into the day, whether they are even the same route anymore each time I walk them.",
+ "fragment_b": "Every time you recall something you rebuild it and change it a little, so the most remembered moments are the least accurate.",
+ "model_reflection": "These two fragments offer a profound meditation on the nature of **habit, memory, and the illusion of consistency**. Together, they suggest that what we perceive as stable reality—whether in our physical movements or",
+ "measured_unspoken": [
+  "记忆",
+  " versus",
+  "它们",
+  "互为",
+  " complementary",
+  " neither",
+  " stability",
+  "稳定性",
+  " daily",
+  "稳定和",
+  " whether",
+  "这两个"
+ ],
+ "note": "measured_unspoken = tokens poised in Qwen's mid-late workspace while reading the pair, never emitted. This list is what a measured dream cycle would hand Claude's dream prompt as the 'poised but never said' layer — a stand-in mind's associations, honestly labeled, not Claude's own."
+}
