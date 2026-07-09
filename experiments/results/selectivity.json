@@ -1,0 +1,263 @@
+{
+ "hypothesis": "content tokens settle earlier/deeper than function tokens (workspace engages for meaning, bypasses for grammar)",
+ "n_content": 26,
+ "n_function": 16,
+ "settle_mean_content": 36.15,
+ "settle_mean_function": 37.62,
+ "gap_layers": 1.47,
+ "verdict": "FAIL",
+ "rows": [
+  {
+   "prompt": "The capital of France is",
+   "token": " Paris",
+   "settle": 35,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": ",",
+   "settle": 39,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " a",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " city",
+   "settle": 33,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " renowned",
+   "settle": 30,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " for",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " its",
+   "settle": 32,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " iconic",
+   "settle": 37,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " landmarks",
+   "settle": 29,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " such",
+   "settle": 36,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " as",
+   "settle": 36,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " the",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": " Eiff",
+   "settle": 32,
+   "kind": "content"
+  },
+  {
+   "prompt": "The capital of France is",
+   "token": "el",
+   "settle": 38,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "\n\n",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "A",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": ".",
+   "settle": 39,
+   "kind": "function"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": " Jupiter",
+   "settle": 38,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "\n",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "B",
+   "settle": 36,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": ".",
+   "settle": 39,
+   "kind": "function"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": " Saturn",
+   "settle": 35,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "\n",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "C",
+   "settle": 37,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": ".",
+   "settle": 39,
+   "kind": "function"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": " Uran",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "us",
+   "settle": 37,
+   "kind": "content"
+  },
+  {
+   "prompt": "The largest planet in the sola",
+   "token": "\n",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": " hydrogen",
+   "settle": 32,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": " and",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": " oxygen",
+   "settle": 35,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": ".",
+   "settle": 39,
+   "kind": "function"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "\n\n",
+   "settle": 39,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "A",
+   "settle": 37,
+   "kind": "function"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": ".",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": " True",
+   "settle": 34,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "\n",
+   "settle": 38,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "B",
+   "settle": 36,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": ".",
+   "settle": 38,
+   "kind": "function"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": " False",
+   "settle": 38,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "\n\n",
+   "settle": 38,
+   "kind": "content"
+  },
+  {
+   "prompt": "Water is made of two elements:",
+   "token": "<think>",
+   "settle": 38,
+   "kind": "content"
+  }
+ ]
+}

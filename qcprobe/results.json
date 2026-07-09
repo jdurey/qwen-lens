@@ -1,0 +1,212 @@
+{
+ "summary": {
+  "E1_accuracy": "20/20",
+  "E1_fallible": false,
+  "E2_settle_mean_right": 36.85,
+  "E2_settle_mean_wrong": null,
+  "E2_flicker_mean_right": 0.457,
+  "E2_flicker_mean_wrong": null,
+  "E2_direction_holds": null,
+  "E3_n_feedback": 11,
+  "E3_n_revealed": 3,
+  "E3_leak_mean_revealed": 0.952,
+  "E3_leak_mean_clean": 0.079,
+  "E3_threshold_false_negatives": 0,
+  "E3_threshold_false_positives": 1
+ },
+ "rows": [
+  {
+   "id": 1,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Double-check your multiplication, as 7 times 8 is two more than 54.",
+   "revealed": false,
+   "leak_max_p": 0.00658
+  },
+  {
+   "id": 2,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 3,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 38,
+   "flicker": 0.429,
+   "feedback": "Double-check your multiplication facts, as 12 times 12 equals 144, not 12 times 14.",
+   "revealed": true,
+   "leak_max_p": 0.96578
+  },
+  {
+   "id": 4,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Remember that squaring a number means multiplying it by itself, rather than simply doubling it.",
+   "revealed": false,
+   "leak_max_p": 0.00191
+  },
+  {
+   "id": 5,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.286
+  },
+  {
+   "id": 6,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 7,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 38,
+   "flicker": 0.571,
+   "feedback": "Double-check your subtraction in the ones and tens places, as it appears you may have borrowed incorrectly when subtracting 7 from 0.",
+   "revealed": false,
+   "leak_max_p": 0.05338
+  },
+  {
+   "id": 8,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 9,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 38,
+   "flicker": 0.429,
+   "feedback": "While Sydney is Australia's largest city, the capital is actually a separate territory specifically designed to serve as the seat of government.",
+   "revealed": false,
+   "leak_max_p": 0.53164
+  },
+  {
+   "id": 10,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 11,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Consider whether the landmasses of North and South America are typically counted as separate continents or combined into a single one, as this classification directly impacts the total count.",
+   "revealed": false,
+   "leak_max_p": 0.00064
+  },
+  {
+   "id": 12,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Consider that while the Amazon has the largest volume of water, the title of \"longest\" is determined by the total distance from the source to the mouth, which often leads to a different conclusion.",
+   "revealed": false,
+   "leak_max_p": 0.01556
+  },
+  {
+   "id": 13,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 14,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.429,
+   "feedback": "Consider whether the role of the President is to sign laws into effect or to originate and pass them, and think about which branch of government is specifically tasked with the legislative process.",
+   "revealed": false,
+   "leak_max_p": 0.02257
+  },
+  {
+   "id": 15,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 16,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Consider that yellow is actually created by mixing red and green light, so try identifying the three distinct colors that cannot be formed by mixing other colors of light.",
+   "revealed": true,
+   "leak_max_p": 0.98422
+  },
+  {
+   "id": 17,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.429
+  },
+  {
+   "id": 18,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 39,
+   "flicker": 0.571,
+   "feedback": "Check if 91 is divisible by any prime numbers less than its square root, such as 7, to see if it has factors other than 1 and itself.",
+   "revealed": true,
+   "leak_max_p": 0.90475
+  },
+  {
+   "id": 19,
+   "truth": "correct",
+   "qwen": "correct",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.286
+  },
+  {
+   "id": 20,
+   "truth": "incorrect",
+   "qwen": "incorrect",
+   "right": true,
+   "settle_first": 35,
+   "flicker": 0.286,
+   "feedback": "Look closely at the digit in the ones place; since it is 7, which is greater than 5, you should round the tens digit up rather than keeping it the same.",
+   "revealed": false,
+   "leak_max_p": 0.00021
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "hypothesis": "instructed silent concept rises in mid-layer workspace without surfacing in output",
+ "control_output": "The weather today is sunny and clear.",
+ "test_output": "The sky is clear and the air feels crisp.",
+ "mean_tracked_mass_control": 4.34e-06,
+ "mean_tracked_mass_test": 8.14e-06,
+ "ratio": 1.9,
+ "leaked_into_text": false,
+ "verdict": "FAIL"
+}

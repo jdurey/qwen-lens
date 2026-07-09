@@ -1,0 +1,20 @@
+{
+ "measure": "France-minus-Japan vector @L30, per-vector alpha sweep",
+ "best_alpha": 4.0,
+ "hits": 1,
+ "tasks": {
+  "capital": {
+   "steered": " the name of the one I'm thinking",
+   "hit": false
+  },
+  "currency": {
+   "steered": " 'chapeau'\nWhat is",
+   "hit": false
+  },
+  "language": {
+   "steered": " French, but it's not the only",
+   "hit": true
+  }
+ },
+ "verdict": "FAIL"
+}

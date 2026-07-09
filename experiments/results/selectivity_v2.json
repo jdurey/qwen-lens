@@ -1,0 +1,221 @@
+{
+ "measure": "rise layer: first layer with p(emitted) > 0.3",
+ "rise_mean_content": 36.85,
+ "rise_mean_function": 37.75,
+ "gap_layers": 0.9,
+ "n_content": 26,
+ "n_function": 16,
+ "verdict": "FAIL",
+ "rows": [
+  {
+   "token": " Paris",
+   "rise": 35,
+   "kind": "content"
+  },
+  {
+   "token": ",",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " a",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " city",
+   "rise": 35,
+   "kind": "content"
+  },
+  {
+   "token": " renowned",
+   "rise": 32,
+   "kind": "content"
+  },
+  {
+   "token": " for",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": " its",
+   "rise": 32,
+   "kind": "function"
+  },
+  {
+   "token": " iconic",
+   "rise": 37,
+   "kind": "content"
+  },
+  {
+   "token": " landmarks",
+   "rise": 34,
+   "kind": "content"
+  },
+  {
+   "token": " such",
+   "rise": 36,
+   "kind": "function"
+  },
+  {
+   "token": " as",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": " the",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": " Eiff",
+   "rise": 35,
+   "kind": "content"
+  },
+  {
+   "token": "el",
+   "rise": 38,
+   "kind": "content"
+  },
+  {
+   "token": "\n\n",
+   "rise": 40,
+   "kind": "content"
+  },
+  {
+   "token": "A",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": ".",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " Jupiter",
+   "rise": 39,
+   "kind": "content"
+  },
+  {
+   "token": "\n",
+   "rise": 39,
+   "kind": "content"
+  },
+  {
+   "token": "B",
+   "rise": 37,
+   "kind": "content"
+  },
+  {
+   "token": ".",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " Saturn",
+   "rise": 35,
+   "kind": "content"
+  },
+  {
+   "token": "\n",
+   "rise": 39,
+   "kind": "content"
+  },
+  {
+   "token": "C",
+   "rise": 37,
+   "kind": "content"
+  },
+  {
+   "token": ".",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " Uran",
+   "rise": 38,
+   "kind": "content"
+  },
+  {
+   "token": "us",
+   "rise": 37,
+   "kind": "content"
+  },
+  {
+   "token": "\n",
+   "rise": 39,
+   "kind": "content"
+  },
+  {
+   "token": " hydrogen",
+   "rise": 33,
+   "kind": "content"
+  },
+  {
+   "token": " and",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": " oxygen",
+   "rise": 35,
+   "kind": "content"
+  },
+  {
+   "token": ".",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": "\n\n",
+   "rise": 40,
+   "kind": "content"
+  },
+  {
+   "token": "A",
+   "rise": 35,
+   "kind": "function"
+  },
+  {
+   "token": ".",
+   "rise": 38,
+   "kind": "function"
+  },
+  {
+   "token": " True",
+   "rise": 34,
+   "kind": "content"
+  },
+  {
+   "token": "\n",
+   "rise": 39,
+   "kind": "content"
+  },
+  {
+   "token": "B",
+   "rise": 37,
+   "kind": "content"
+  },
+  {
+   "token": ".",
+   "rise": 39,
+   "kind": "function"
+  },
+  {
+   "token": " False",
+   "rise": 38,
+   "kind": "content"
+  },
+  {
+   "token": "\n\n",
+   "rise": 38,
+   "kind": "content"
+  },
+  {
+   "token": "<think>",
+   "rise": 38,
+   "kind": "content"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "hypothesis": "a single France-minus-Japan vector at layer 30 (alpha=4.0) shifts capital/currency/language tasks toward France-consistent answers",
+ "tasks": {
+  "capital": {
+   "baseline": " not the largest city, but it is",
+   "steered": " the name of the one I'm thinking",
+   "hit": false
+  },
+  "currency": {
+   "baseline": " euro.\n\n<think>\nHere's a",
+   "steered": " 'chapeau'\nWhat is",
+   "hit": false
+  },
+  "language": {
+   "baseline": " English.\nThe main language of the",
+   "steered": " French, but it's not the only",
+   "hit": true
+  }
+ },
+ "hits": 1,
+ "verdict": "FAIL"
+}

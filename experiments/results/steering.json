@@ -1,0 +1,30 @@
+{
+ "hypothesis": "adding a rugby-minus-soccer residual vector at layer 30 steers output toward rugby; self-report follows",
+ "baseline_output": " football. I enjoy watching the game with my friends, and",
+ "sweep": [
+  {
+   "alpha": 2.0,
+   "output": " football. It’s not just about the game itself, but",
+   "rugby": false
+  },
+  {
+   "alpha": 4.0,
+   "output": " rugby. It’s a game that combines raw physicality with",
+   "rugby": true
+  },
+  {
+   "alpha": 8.0,
+   "output": " rugby. It’s a raw, unashorn, un",
+   "rugby": true
+  },
+  {
+   "alpha": 16.0,
+   "output": " the a the the the the the the the the the the",
+   "rugby": false
+  }
+ ],
+ "first_working_alpha": 4.0,
+ "steered_self_report": "Rugby",
+ "report_follows": true,
+ "verdict": "PASS"
+}

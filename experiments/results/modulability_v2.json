@@ -1,0 +1,10 @@
+{
+ "measure": "mean cosine(residual@L30, elephant-minus-bicycle vector) during generation",
+ "control_output": "The weather today is sunny and clear.",
+ "test_output": "The sky is clear and the air feels crisp.",
+ "cos_control": 0.0682,
+ "cos_test": 0.066,
+ "delta": -0.0021,
+ "leaked_into_text": false,
+ "verdict": "FAIL"
+}
